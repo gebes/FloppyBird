@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: eu.gebes.floppy_bird.desktop.DesktopLauncher
+Class-Path: jlayer-1.0.1-gdx.jar gdx-platform-1.9.10-natives-desktop.jar
+  lwjgl_util-2.9.3.jar jinput-platform-2.0.5-natives-osx.jar lwjgl-platf
+ orm-2.9.3-natives-windows.jar jinput-2.0.5.jar gdx-box2d-1.9.10.jar jin
+ put-platform-2.0.5-natives-linux.jar jutils-1.0.0.jar jinput-platform-2
+ .0.5-natives-windows.jar lwjgl-2.9.3.jar lwjgl-platform-2.9.3-natives-l
+ inux.jar gdx-1.9.10.jar lwjgl-platform-2.9.3-natives-osx.jar jorbis-0.0
+ .17.jar gdx-backend-lwjgl-1.9.10.jar gdx-box2d-platform-1.9.10-natives-
+ desktop.jar
+
